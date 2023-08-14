@@ -6,9 +6,11 @@ This simulator was developed at LANREF located inside the Colegio de Postgraduad
 Therefore this repository shows only the final product of the work and some R scripts to give an idea of the level of programming skills in both R and Python.
 
 ![image](https://github.com/13260618/Simulac-ShinyApp/assets/111941844/c8191aa7-1753-4c27-b3a1-042eb6f18fb5)
-{\tiny**Figure 1.**  Presentation of the simulator and the work team.
-}
-
+**Figure 1.**  Presentation of the simulator and the work team.
 
 ![simulac-complete](https://github.com/13260618/Simulac-ShinyApp/assets/111941844/522adf31-79c5-4948-b447-91d439f90f49)
+**Figure 2.** Complete simulator with the graphs that generate the algorithms using biological principles and as realistic as possible.
 
+![image](https://github.com/13260618/Simulac-ShinyApp/assets/111941844/0b8db6eb-cb30-4a71-bce2-fddb902929c2)
+
+Visualization of the data set (more than 100 thousand) in real time, managed from SQL and PHP.
