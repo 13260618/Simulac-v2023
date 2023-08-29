@@ -1,4 +1,4 @@
-# Simulac-ShinyApp
+# Simulac-2023
 Simulator of the life cycle process of _Ceratitis capitata_ with real time data in Mexico.
 
 This simulator was developed at LANREF located inside the Colegio de Postgraduados under the supervision of Dr. Gustavo Mora Aguilera and his team of epidemiologists, therefore the project is entirely of his authorship and originality, I personally worked on the implementation in web environment using **R** and **Python** and the programming of the algorithms based on biological processes of the Mediterranean fruit fly *Ceratitis capitata*.
