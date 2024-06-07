@@ -14,4 +14,4 @@ Therefore this repository shows only the final product of the work and some R sc
 
 ![image](https://github.com/13260618/Simulac-ShinyApp/assets/111941844/0b8db6eb-cb30-4a71-bce2-fddb902929c2)
 
-**Figure 3.** Visualization of the data set (more than 100 thousand) in real time, managed from SQL and PHP.
+**Figure 3.** Visualization of the data set 
